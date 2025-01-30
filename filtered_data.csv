@@ -1,0 +1,482 @@
+Age,Age_Group,Gender,Occupation_Status,Sleep_Issues,Depression_Frequency,Social_Media_Hours
+21,20-29,Male,University Student,5,5,Between 2 and 3 hours
+21,20-29,Female,University Student,5,5,More than 5 hours
+21,20-29,Female,University Student,5,4,Between 3 and 4 hours
+21,20-29,Female,University Student,2,4,More than 5 hours
+21,20-29,Female,University Student,1,4,Between 2 and 3 hours
+22,20-29,Female,University Student,4,3,Between 2 and 3 hours
+21,20-29,Female,University Student,3,5,Between 3 and 4 hours
+21,20-29,Female,University Student,1,5,More than 5 hours
+21,20-29,Female,University Student,1,5,More than 5 hours
+20,20-29,Male,University Student,1,1,Less than an Hour
+24,20-29,Male,University Student,5,5,Between 2 and 3 hours
+21,20-29,Female,University Student,2,3,Between 3 and 4 hours
+22,20-29,Female,University Student,5,3,Between 3 and 4 hours
+21,20-29,Female,University Student,3,3,Between 3 and 4 hours
+22,20-29,Male,University Student,5,5,More than 5 hours
+23,20-29,Male,University Student,2,3,Between 1 and 2 hours
+21,20-29,Male,University Student,3,4,Less than an Hour
+25,20-29,Male,School Student,2,2,Between 4 and 5 hours
+28,20-29,Male,University Student,1,3,Between 1 and 2 hours
+34,30-39,Male,Salaried Worker,2,2,Between 1 and 2 hours
+22,20-29,Male,University Student,2,2,Between 2 and 3 hours
+23,20-29,Male,University Student,1,3,More than 5 hours
+26,20-29,Female,University Student,4,4,Between 3 and 4 hours
+23,20-29,Female,University Student,1,4,Between 1 and 2 hours
+23,20-29,Male,University Student,5,3,Between 3 and 4 hours
+35,30-39,Female,Salaried Worker,2,4,Between 3 and 4 hours
+20,20-29,Male,University Student,4,4,Between 3 and 4 hours
+35,30-39,Male,Salaried Worker,5,4,Between 2 and 3 hours
+22,20-29,Female,University Student,1,4,Between 4 and 5 hours
+21,20-29,Female,University Student,1,5,Between 3 and 4 hours
+22,20-29,Female,University Student,3,5,Between 3 and 4 hours
+35,30-39,Male,Salaried Worker,2,3,Between 2 and 3 hours
+24,20-29,Male,Salaried Worker,3,2,Between 2 and 3 hours
+18,Under 20,Female,School Student,2,3,Between 2 and 3 hours
+19,Under 20,Female,University Student,4,5,Between 3 and 4 hours
+21,20-29,Nonbinary,University Student,1,4,More than 5 hours
+21,20-29,Male,University Student,1,3,Between 3 and 4 hours
+23,20-29,Male,University Student,5,5,Less than an Hour
+22,20-29,Female,University Student,5,2,Between 3 and 4 hours
+22,20-29,Male,University Student,4,1,Between 2 and 3 hours
+21,20-29,Female,University Student,1,3,Between 1 and 2 hours
+21,20-29,Female,University Student,2,4,Between 3 and 4 hours
+56,50 and above,Female,Retired,1,2,Between 1 and 2 hours
+19,Under 20,Female,School Student,2,5,More than 5 hours
+24,20-29,Male,Salaried Worker,3,3,More than 5 hours
+22,20-29,Female,University Student,3,3,More than 5 hours
+65,50 and above,Male,Retired,2,1,Between 3 and 4 hours
+17,Under 20,Female,School Student,1,3,Between 3 and 4 hours
+40,40-49,Male,Salaried Worker,1,2,Between 2 and 3 hours
+33,30-39,Female,Salaried Worker,1,1,Between 3 and 4 hours
+22,20-29,Female,University Student,4,3,Between 3 and 4 hours
+24,20-29,Male,Salaried Worker,1,3,More than 5 hours
+26,20-29,Male,University Student,5,5,Less than an Hour
+55,50 and above,Male,Salaried Worker,1,1,Between 1 and 2 hours
+26,20-29,Male,Salaried Worker,2,1,Between 1 and 2 hours
+27,20-29,Male,University Student,3,5,More than 5 hours
+22,20-29,Male,University Student,2,3,More than 5 hours
+19,Under 20,Female,School Student,5,4,Between 2 and 3 hours
+22,20-29,Female,University Student,2,5,Between 2 and 3 hours
+20,20-29,Female,University Student,5,1,Between 1 and 2 hours
+25,20-29,Female,University Student,4,4,More than 5 hours
+25,20-29,Female,University Student,4,4,Between 1 and 2 hours
+18,Under 20,Female,University Student,5,5,More than 5 hours
+25,20-29,Male,Salaried Worker,5,5,Between 1 and 2 hours
+19,Under 20,Female,University Student,4,1,Between 2 and 3 hours
+24,20-29,Male,School Student,4,2,Between 1 and 2 hours
+21,20-29,Male,University Student,1,4,Between 3 and 4 hours
+18,Under 20,Non-binary,School Student,4,4,Between 2 and 3 hours
+14,Under 20,Male,School Student,4,4,Between 1 and 2 hours
+25,20-29,Male,University Student,4,3,Between 3 and 4 hours
+33,30-39,Male,Salaried Worker,2,1,Between 3 and 4 hours
+23,20-29,Male,School Student,5,5,Between 2 and 3 hours
+14,Under 20,Female,School Student,5,4,More than 5 hours
+38,30-39,Male,Salaried Worker,2,2,Between 1 and 2 hours
+23,20-29,Female,Retired,4,5,Between 4 and 5 hours
+26,20-29,Male,Salaried Worker,4,2,Less than an Hour
+24,20-29,Male,University Student,2,5,Between 2 and 3 hours
+21,20-29,Female,University Student,2,4,Between 3 and 4 hours
+18,Under 20,Female,University Student,5,5,Between 3 and 4 hours
+28,20-29,Male,University Student,5,5,Between 3 and 4 hours
+22,20-29,Male,University Student,5,4,Between 2 and 3 hours
+21,20-29,Male,University Student,4,1,More than 5 hours
+21,20-29,Male,University Student,2,4,More than 5 hours
+21,20-29,Female,University Student,5,4,Between 4 and 5 hours
+17,Under 20,Male,School Student,2,2,Between 2 and 3 hours
+24,20-29,NB,Salaried Worker,1,4,Between 2 and 3 hours
+22,20-29,Female,University Student,4,2,Between 1 and 2 hours
+32,30-39,Female,Salaried Worker,1,1,Between 1 and 2 hours
+22,20-29,Male,University Student,2,3,Between 2 and 3 hours
+20,20-29,Female,University Student,4,5,Between 2 and 3 hours
+22,20-29,Male,University Student,3,4,Between 2 and 3 hours
+28,20-29,Female,University Student,2,4,Between 3 and 4 hours
+22,20-29,Female,University Student,1,4,More than 5 hours
+17,Under 20,unsure,School Student,5,3,Between 4 and 5 hours
+30,30-39,Female,Salaried Worker,4,4,Between 4 and 5 hours
+22,20-29,Male,University Student,5,3,More than 5 hours
+14,Under 20,Male,School Student,5,1,Between 4 and 5 hours
+20,20-29,Male,School Student,2,4,More than 5 hours
+22,20-29,Female,School Student,3,5,More than 5 hours
+16,Under 20,Male,School Student,3,2,Between 4 and 5 hours
+22,20-29,Female,University Student,3,3,Between 2 and 3 hours
+22,20-29,Male,University Student,5,5,Between 1 and 2 hours
+22,20-29,Male,University Student,3,4,Between 3 and 4 hours
+22,20-29,Male,University Student,5,3,Between 1 and 2 hours
+21,20-29,Female,University Student,3,1,Between 4 and 5 hours
+23,20-29,Female,University Student,5,2,Between 4 and 5 hours
+23,20-29,Female,University Student,5,3,Between 2 and 3 hours
+48,40-49,Female,Salaried Worker,1,1,Between 1 and 2 hours
+21,20-29,Female,University Student,5,2,Between 3 and 4 hours
+47,40-49,Female,Salaried Worker,3,3,Between 2 and 3 hours
+48,40-49,Male,Salaried Worker,3,2,Between 2 and 3 hours
+26,20-29,Female,Salaried Worker,3,4,More than 5 hours
+47,40-49,Male,Salaried Worker,4,2,Between 2 and 3 hours
+47,40-49,Male,Salaried Worker,4,2,Between 1 and 2 hours
+27,20-29,Female,Salaried Worker,1,4,More than 5 hours
+34,30-39,Female,Salaried Worker,4,2,More than 5 hours
+20,20-29,Female,University Student,5,3,Between 2 and 3 hours
+22,20-29,Female,University Student,4,3,More than 5 hours
+23,20-29,Female,University Student,5,5,More than 5 hours
+20,20-29,Male,University Student,5,4,Between 4 and 5 hours
+48,40-49,Female,Salaried Worker,1,1,Less than an Hour
+20,20-29,Female,University Student,3,3,Between 3 and 4 hours
+20,20-29,Female,University Student,3,5,Between 4 and 5 hours
+22,20-29,Female,University Student,2,4,More than 5 hours
+22,20-29,Female,University Student,1,1,More than 5 hours
+20,20-29,Female,University Student,3,4,More than 5 hours
+24,20-29,Male,University Student,4,4,Between 2 and 3 hours
+23,20-29,Female,University Student,5,4,More than 5 hours
+20,20-29,Female,University Student,3,4,Between 3 and 4 hours
+16,Under 20,Male,School Student,2,3,Between 2 and 3 hours
+50,50 and above,Female,Salaried Worker,4,1,Between 2 and 3 hours
+47,40-49,Male,Salaried Worker,2,3,Between 1 and 2 hours
+24,20-29,Male,Salaried Worker,4,3,Between 2 and 3 hours
+38,30-39,Female,Salaried Worker,1,2,Less than an Hour
+50,50 and above,Male,Salaried Worker,1,2,Between 1 and 2 hours
+49,40-49,Male,Retired,5,4,Between 4 and 5 hours
+47,40-49,Female,Salaried Worker,4,1,Between 2 and 3 hours
+48,40-49,Female,Salaried Worker,1,1,Between 2 and 3 hours
+51,50 and above,Male,Salaried Worker,3,3,Between 1 and 2 hours
+50,50 and above,Male,Salaried Worker,2,4,Between 3 and 4 hours
+47,40-49,Female,Salaried Worker,1,1,Between 3 and 4 hours
+27,20-29,Female,Salaried Worker,4,3,Between 4 and 5 hours
+40,40-49,Female,Salaried Worker,1,4,Between 1 and 2 hours
+46,40-49,Male,Salaried Worker,2,2,Less than an Hour
+21,20-29,Female,University Student,5,5,Between 4 and 5 hours
+47,40-49,Female,Salaried Worker,3,3,Between 1 and 2 hours
+20,20-29,Female,University Student,4,4,More than 5 hours
+47,40-49,Female,Salaried Worker,2,2,Between 1 and 2 hours
+48,40-49,Male,Salaried Worker,2,2,Between 3 and 4 hours
+49,40-49,Male,Salaried Worker,4,2,Between 4 and 5 hours
+21,20-29,Male,University Student,2,2,Between 3 and 4 hours
+32,30-39,Female,Salaried Worker,5,1,Between 4 and 5 hours
+47,40-49,Female,Salaried Worker,3,2,Between 2 and 3 hours
+50,50 and above,Male,Salaried Worker,2,3,Between 1 and 2 hours
+48,40-49,Male,Salaried Worker,5,4,Less than an Hour
+21,20-29,Female,University Student,4,3,Between 3 and 4 hours
+47,40-49,Male,Salaried Worker,4,2,Less than an Hour
+36,30-39,Female,Salaried Worker,4,1,Between 2 and 3 hours
+37,30-39,Female,Retired,4,4,Between 1 and 2 hours
+19,Under 20,Female,School Student,5,4,Between 4 and 5 hours
+30,30-39,Male,Salaried Worker,5,2,Between 1 and 2 hours
+48,40-49,Male,Salaried Worker,2,1,Less than an Hour
+48,40-49,Female,Retired,4,3,More than 5 hours
+48,40-49,Male,Salaried Worker,4,3,Between 3 and 4 hours
+47,40-49,Male,Salaried Worker,4,3,Between 2 and 3 hours
+47,40-49,Female,Salaried Worker,2,2,Less than an Hour
+48,40-49,Male,Salaried Worker,4,2,Less than an Hour
+21,20-29,Male,University Student,4,2,Between 2 and 3 hours
+48,40-49,Male,Salaried Worker,2,1,Between 1 and 2 hours
+21,20-29,Male,University Student,1,2,Less than an Hour
+20,20-29,Male,University Student,4,3,More than 5 hours
+20,20-29,Female,University Student,4,3,Between 3 and 4 hours
+20,20-29,Male,University Student,5,5,Between 1 and 2 hours
+21,20-29,Female,University Student,1,3,Between 1 and 2 hours
+20,20-29,Female,University Student,5,4,Between 4 and 5 hours
+47,40-49,Male,Salaried Worker,1,1,Between 2 and 3 hours
+35,30-39,Female,Salaried Worker,1,1,Less than an Hour
+23,20-29,Female,University Student,5,4,Between 3 and 4 hours
+21,20-29,Female,University Student,5,3,Between 4 and 5 hours
+21,20-29,Female,University Student,1,4,Between 2 and 3 hours
+37,30-39,Female,Salaried Worker,5,4,Between 1 and 2 hours
+48,40-49,Male,Salaried Worker,4,3,Between 1 and 2 hours
+47,40-49,Male,Salaried Worker,3,1,Less than an Hour
+25,20-29,Female,Salaried Worker,2,5,Between 4 and 5 hours
+22,20-29,Female,University Student,4,3,More than 5 hours
+45,40-49,Male,Salaried Worker,2,2,Between 2 and 3 hours
+47,40-49,Male,Salaried Worker,1,3,Between 1 and 2 hours
+47,40-49,Female,Salaried Worker,1,3,Between 4 and 5 hours
+24,20-29,Female,University Student,4,4,More than 5 hours
+21,20-29,Female,University Student,5,2,Between 2 and 3 hours
+22,20-29,Female,University Student,1,4,Between 2 and 3 hours
+19,Under 20,Female,School Student,1,4,Between 2 and 3 hours
+21,20-29,Female,University Student,4,4,Between 4 and 5 hours
+22,20-29,Female,University Student,4,5,More than 5 hours
+20,20-29,Male,University Student,5,4,Between 3 and 4 hours
+42,40-49,Female,Salaried Worker,1,1,Between 2 and 3 hours
+35,30-39,Female,Salaried Worker,2,3,Between 2 and 3 hours
+38,30-39,Male,Salaried Worker,2,2,Between 4 and 5 hours
+17,Under 20,Male,School Student,2,1,Less than an Hour
+32,30-39,Male,Salaried Worker,1,1,Between 1 and 2 hours
+21,20-29,Female,University Student,2,2,Between 1 and 2 hours
+22,20-29,Male,University Student,5,3,Between 3 and 4 hours
+27,20-29,Female,University Student,4,3,More than 5 hours
+21,20-29,Male,University Student,3,3,Between 3 and 4 hours
+27,20-29,Male,Salaried Worker,5,5,More than 5 hours
+20,20-29,Male,School Student,4,2,Between 2 and 3 hours
+27,20-29,Female,Salaried Worker,2,1,Between 3 and 4 hours
+24,20-29,Male,University Student,4,5,Between 3 and 4 hours
+26,20-29,Female,Salaried Worker,1,1,Between 2 and 3 hours
+20,20-29,Female,University Student,4,4,Between 3 and 4 hours
+31,30-39,Male,Salaried Worker,2,3,Between 2 and 3 hours
+21,20-29,Male,University Student,1,1,More than 5 hours
+34,30-39,Male,Salaried Worker,5,5,More than 5 hours
+22,20-29,Male,University Student,1,1,Less than an Hour
+20,20-29,Female,University Student,1,4,More than 5 hours
+23,20-29,Male,University Student,1,3,Between 4 and 5 hours
+48,40-49,Male,Salaried Worker,1,1,Less than an Hour
+37,30-39,Male,Salaried Worker,2,2,Between 1 and 2 hours
+22,20-29,Male,University Student,4,5,Between 1 and 2 hours
+50,50 and above,Male,Salaried Worker,3,2,Between 1 and 2 hours
+21,20-29,Female,University Student,4,3,More than 5 hours
+23,20-29,Female,University Student,1,2,Between 2 and 3 hours
+21,20-29,Female,University Student,3,3,Between 1 and 2 hours
+22,20-29,Female,University Student,3,3,Between 3 and 4 hours
+22,20-29,Female,University Student,3,4,More than 5 hours
+22,20-29,Female,University Student,3,2,More than 5 hours
+19,Under 20,Female,University Student,3,4,Between 3 and 4 hours
+23,20-29,Female,University Student,5,2,Between 2 and 3 hours
+46,40-49,Male,Salaried Worker,4,1,Less than an Hour
+21,20-29,Male,University Student,5,4,More than 5 hours
+24,20-29,Female,University Student,1,4,More than 5 hours
+20,20-29,Female,University Student,1,1,Less than an Hour
+25,20-29,Male,University Student,5,5,Between 1 and 2 hours
+21,20-29,Female,University Student,1,1,Between 3 and 4 hours
+23,20-29,Male,University Student,3,4,More than 5 hours
+22,20-29,Female,Salaried Worker,1,4,More than 5 hours
+36,30-39,Male,Salaried Worker,1,2,Less than an Hour
+22,20-29,Female,University Student,5,5,Between 2 and 3 hours
+69,50 and above,Trans,Salaried Worker,5,5,More than 5 hours
+25,20-29,Female,Salaried Worker,5,4,Between 4 and 5 hours
+22,20-29,Female,University Student,2,4,Between 4 and 5 hours
+23,20-29,Male,University Student,4,2,Between 3 and 4 hours
+23,20-29,Male,University Student,5,3,Less than an Hour
+19,Under 20,Female,School Student,5,3,Between 3 and 4 hours
+21,20-29,Female,University Student,3,3,Between 1 and 2 hours
+27,20-29,Female,Salaried Worker,2,4,Between 4 and 5 hours
+25,20-29,Female,University Student,1,4,More than 5 hours
+20,20-29,Female,University Student,3,2,Between 2 and 3 hours
+34,30-39,Female,Salaried Worker,1,1,Between 1 and 2 hours
+23,20-29,Female,University Student,4,4,More than 5 hours
+34,30-39,Female,Salaried Worker,1,1,Between 1 and 2 hours
+26,20-29,Female,Salaried Worker,4,5,Between 4 and 5 hours
+25,20-29,Male,University Student,5,5,Between 4 and 5 hours
+22,20-29,Female,University Student,3,2,Between 2 and 3 hours
+20,20-29,Male,University Student,2,2,Less than an Hour
+23,20-29,Female,University Student,5,3,More than 5 hours
+91,50 and above,Female,University Student,5,5,Between 2 and 3 hours
+22,20-29,Female,University Student,3,1,Between 4 and 5 hours
+23,20-29,Female,University Student,2,4,More than 5 hours
+21,20-29,Female,University Student,4,3,Between 2 and 3 hours
+36,30-39,Female,Salaried Worker,3,2,Between 1 and 2 hours
+21,20-29,Female,University Student,4,5,Between 2 and 3 hours
+22,20-29,Female,University Student,2,3,Between 1 and 2 hours
+22,20-29,Male,University Student,3,3,More than 5 hours
+22,20-29,Female,University Student,2,2,More than 5 hours
+20,20-29,Female,University Student,2,3,Between 3 and 4 hours
+26,20-29,Female,Salaried Worker,4,2,More than 5 hours
+21,20-29,Male,University Student,4,4,Between 2 and 3 hours
+20,20-29,Female,University Student,5,3,More than 5 hours
+21,20-29,Female,University Student,2,3,More than 5 hours
+19,Under 20,Female,School Student,5,2,More than 5 hours
+20,20-29,Female,University Student,5,5,More than 5 hours
+22,20-29,Female,University Student,4,3,Between 3 and 4 hours
+23,20-29,Male,University Student,5,5,Between 1 and 2 hours
+21,20-29,Male,University Student,3,3,Between 2 and 3 hours
+21,20-29,Female,University Student,5,5,Between 3 and 4 hours
+22,20-29,Male,University Student,5,5,Between 4 and 5 hours
+26,20-29,Male,Salaried Worker,5,5,More than 5 hours
+22,20-29,Female,University Student,2,5,Between 2 and 3 hours
+17,Under 20,Male,School Student,4,5,Between 2 and 3 hours
+23,20-29,Male,University Student,5,3,More than 5 hours
+21,20-29,Male,School Student,3,4,Between 3 and 4 hours
+22,20-29,Female,University Student,2,2,More than 5 hours
+20,20-29,Male,University Student,5,5,More than 5 hours
+24,20-29,Female,University Student,4,4,Between 4 and 5 hours
+22,20-29,Female,University Student,4,3,Between 3 and 4 hours
+24,20-29,Male,University Student,2,2,Between 3 and 4 hours
+22,20-29,Female,University Student,4,5,More than 5 hours
+26,20-29,Male,University Student,2,4,Between 4 and 5 hours
+24,20-29,Female,Salaried Worker,4,3,Between 3 and 4 hours
+22,20-29,Female,University Student,4,3,Between 2 and 3 hours
+25,20-29,Female,University Student,3,4,Between 3 and 4 hours
+21,20-29,Female,University Student,4,4,Between 4 and 5 hours
+20,20-29,Female,University Student,5,5,Between 2 and 3 hours
+22,20-29,Female,University Student,1,1,Between 1 and 2 hours
+25,20-29,Female,Salaried Worker,1,2,Between 2 and 3 hours
+17,Under 20,Male,School Student,2,4,Between 4 and 5 hours
+22,20-29,Female,University Student,5,4,Between 2 and 3 hours
+26,20-29,Male,University Student,2,3,Between 1 and 2 hours
+22,20-29,Female,University Student,3,5,Between 2 and 3 hours
+23,20-29,Male,University Student,4,5,Between 2 and 3 hours
+25,20-29,Male,Salaried Worker,5,5,Between 2 and 3 hours
+21,20-29,Male,School Student,2,4,Between 2 and 3 hours
+30,30-39,Female,Salaried Worker,5,4,Between 2 and 3 hours
+23,20-29,Female,University Student,2,3,Between 3 and 4 hours
+22,20-29,Male,Salaried Worker,2,3,Between 4 and 5 hours
+21,20-29,Female,University Student,3,5,Between 4 and 5 hours
+20,20-29,Female,University Student,1,1,Between 3 and 4 hours
+18,Under 20,Female,University Student,4,2,More than 5 hours
+20,20-29,Female,University Student,1,2,Between 3 and 4 hours
+15,Under 20,Female,School Student,5,5,Between 3 and 4 hours
+22,20-29,Male,University Student,5,3,More than 5 hours
+17,Under 20,Female,School Student,2,2,More than 5 hours
+21,20-29,Male,University Student,5,5,Between 1 and 2 hours
+22,20-29,Female,University Student,4,4,More than 5 hours
+23,20-29,Female,University Student,4,3,More than 5 hours
+24,20-29,Male,University Student,3,3,Between 3 and 4 hours
+21,20-29,Female,University Student,4,5,More than 5 hours
+22,20-29,Female,University Student,5,5,More than 5 hours
+22,20-29,Female,University Student,5,5,More than 5 hours
+21,20-29,Female,University Student,5,5,More than 5 hours
+21,20-29,Female,University Student,4,4,More than 5 hours
+18,Under 20,Male,School Student,5,3,More than 5 hours
+19,Under 20,Male,University Student,5,2,Less than an Hour
+22,20-29,Male,University Student,5,5,More than 5 hours
+21,20-29,Non binary,University Student,1,5,More than 5 hours
+21,20-29,Female,University Student,5,5,Between 3 and 4 hours
+22,20-29,Male,University Student,4,5,Between 2 and 3 hours
+21,20-29,Female,University Student,2,4,Between 2 and 3 hours
+23,20-29,Male,University Student,4,4,Between 2 and 3 hours
+19,Under 20,Male,University Student,4,1,Between 3 and 4 hours
+26,20-29,Male,Salaried Worker,2,4,Between 2 and 3 hours
+27,20-29,Male,Salaried Worker,3,3,Between 2 and 3 hours
+25,20-29,Female,University Student,4,5,More than 5 hours
+20,20-29,Female,University Student,3,3,Between 4 and 5 hours
+20,20-29,Female,University Student,2,4,More than 5 hours
+22,20-29,Male,University Student,2,1,Between 3 and 4 hours
+18,Under 20,Female,School Student,5,4,Between 3 and 4 hours
+22,20-29,Male,University Student,3,3,Between 2 and 3 hours
+20,20-29,Male,Salaried Worker,2,5,Between 1 and 2 hours
+24,20-29,Male,Salaried Worker,1,3,More than 5 hours
+21,20-29,Male,University Student,3,3,Between 4 and 5 hours
+29,20-29,Female,Salaried Worker,5,5,Between 3 and 4 hours
+21,20-29,Male,University Student,5,2,Between 1 and 2 hours
+19,Under 20,Female,University Student,5,5,More than 5 hours
+21,20-29,Female,University Student,2,5,Between 2 and 3 hours
+43,40-49,Male,Salaried Worker,1,1,Less than an Hour
+22,20-29,Female,University Student,1,4,Between 4 and 5 hours
+24,20-29,Male,University Student,1,3,Between 4 and 5 hours
+18,Under 20,Female,School Student,4,5,More than 5 hours
+19,Under 20,Female,University Student,5,4,Between 3 and 4 hours
+37,30-39,Female,Salaried Worker,4,3,Between 1 and 2 hours
+24,20-29,Male,University Student,5,3,Between 4 and 5 hours
+29,20-29,Female,Salaried Worker,4,5,Between 1 and 2 hours
+19,Under 20,Male,School Student,2,2,Between 4 and 5 hours
+35,30-39,Male,Salaried Worker,5,3,Less than an Hour
+22,20-29,Female,University Student,2,4,Between 2 and 3 hours
+23,20-29,Male,University Student,3,3,Between 1 and 2 hours
+22,20-29,Female,University Student,1,3,More than 5 hours
+25,20-29,Male,Salaried Worker,5,4,Between 2 and 3 hours
+19,Under 20,Male,School Student,2,3,Between 4 and 5 hours
+29,20-29,Female,Salaried Worker,4,2,Between 1 and 2 hours
+21,20-29,Female,University Student,5,4,Between 4 and 5 hours
+21,20-29,Male,University Student,2,2,Between 4 and 5 hours
+22,20-29,Female,University Student,2,1,Between 2 and 3 hours
+23,20-29,Female,University Student,5,5,Between 4 and 5 hours
+22,20-29,Female,University Student,4,4,Between 2 and 3 hours
+20,20-29,Male,University Student,5,5,More than 5 hours
+22,20-29,There are others???,Salaried Worker,1,1,More than 5 hours
+27,20-29,Female,Salaried Worker,4,5,Between 3 and 4 hours
+24,20-29,Male,Salaried Worker,5,2,More than 5 hours
+21,20-29,Female,University Student,5,4,Between 1 and 2 hours
+23,20-29,Female,University Student,3,3,Less than an Hour
+21,20-29,Female,University Student,5,3,Between 3 and 4 hours
+23,20-29,Female,University Student,1,2,Between 2 and 3 hours
+24,20-29,Female,University Student,4,5,Between 4 and 5 hours
+21,20-29,Male,University Student,4,5,Between 4 and 5 hours
+30,30-39,Female,Salaried Worker,4,4,Between 2 and 3 hours
+23,20-29,Male,University Student,2,5,Between 3 and 4 hours
+22,20-29,Female,University Student,2,1,More than 5 hours
+29,20-29,Female,University Student,5,5,More than 5 hours
+20,20-29,Male,University Student,1,5,Between 3 and 4 hours
+26.7,20-29,Female,University Student,5,4,More than 5 hours
+24,20-29,Male,Salaried Worker,3,5,Between 1 and 2 hours
+26,20-29,Male,University Student,3,3,Between 3 and 4 hours
+22,20-29,Male,University Student,4,2,Between 2 and 3 hours
+23,20-29,Male,University Student,4,3,Between 4 and 5 hours
+19,Under 20,Male,School Student,4,2,Between 4 and 5 hours
+21,20-29,Female,University Student,2,4,Between 2 and 3 hours
+20,20-29,Female,University Student,5,4,Between 4 and 5 hours
+22,20-29,Male,University Student,4,3,More than 5 hours
+22,20-29,Male,University Student,3,5,More than 5 hours
+23,20-29,Male,University Student,5,5,More than 5 hours
+22,20-29,Female,University Student,1,5,More than 5 hours
+20,20-29,Female,School Student,2,2,More than 5 hours
+27,20-29,Female,Salaried Worker,1,2,Between 1 and 2 hours
+22,20-29,Female,University Student,3,5,More than 5 hours
+21,20-29,Female,University Student,5,5,More than 5 hours
+21,20-29,Female,University Student,4,1,Between 2 and 3 hours
+24,20-29,Female,University Student,5,5,Between 4 and 5 hours
+19,Under 20,Male,University Student,3,4,Between 3 and 4 hours
+52,50 and above,Male,Salaried Worker,4,3,Between 1 and 2 hours
+26,20-29,Male,University Student,5,3,More than 5 hours
+44,40-49,Male,Salaried Worker,1,1,Less than an Hour
+44,40-49,Male,Salaried Worker,1,1,Less than an Hour
+19,Under 20,Female,University Student,5,5,Between 3 and 4 hours
+35,30-39,Male,Salaried Worker,5,5,Between 3 and 4 hours
+21,20-29,Female,University Student,3,4,More than 5 hours
+20,20-29,Female,University Student,1,4,Between 4 and 5 hours
+24,20-29,Female,University Student,5,4,More than 5 hours
+21,20-29,Female,University Student,1,3,Between 3 and 4 hours
+24,20-29,Male,University Student,3,3,More than 5 hours
+21,20-29,Female,University Student,5,5,Between 3 and 4 hours
+17,Under 20,Male,School Student,5,5,More than 5 hours
+26,20-29,Female,University Student,4,4,Between 4 and 5 hours
+18,Under 20,Male,School Student,5,5,Between 3 and 4 hours
+18,Under 20,Female,School Student,2,2,Between 3 and 4 hours
+18,Under 20,Female,School Student,5,3,Between 3 and 4 hours
+23,20-29,Male,University Student,3,4,Between 3 and 4 hours
+20,20-29,Male,University Student,1,3,Between 1 and 2 hours
+23,20-29,Male,University Student,5,3,More than 5 hours
+25,20-29,Male,University Student,4,2,Less than an Hour
+26,20-29,Male,Salaried Worker,4,5,Between 2 and 3 hours
+20,20-29,Male,University Student,5,4,More than 5 hours
+19,Under 20,Male,School Student,3,1,Between 1 and 2 hours
+17,Under 20,Female,School Student,1,4,Between 2 and 3 hours
+24,20-29,Female,University Student,3,3,Between 3 and 4 hours
+29,20-29,Female,Salaried Worker,3,4,More than 5 hours
+30,30-39,Female,Retired,2,3,Between 3 and 4 hours
+21,20-29,Female,University Student,4,5,Between 3 and 4 hours
+23,20-29,Male,University Student,5,5,More than 5 hours
+21,20-29,Male,University Student,5,5,More than 5 hours
+20,20-29,Female,University Student,5,5,More than 5 hours
+21,20-29,Male,University Student,5,5,Between 4 and 5 hours
+22,20-29,Female,University Student,5,4,Between 4 and 5 hours
+22,20-29,Female,University Student,5,3,Between 2 and 3 hours
+22,20-29,Female,University Student,4,3,More than 5 hours
+27,20-29,Female,Salaried Worker,2,2,Between 4 and 5 hours
+21,20-29,Male,University Student,5,2,More than 5 hours
+23,20-29,Male,University Student,4,4,Between 4 and 5 hours
+22,20-29,Male,University Student,4,2,Between 3 and 4 hours
+21,20-29,Female,University Student,2,1,Between 3 and 4 hours
+23,20-29,Male,University Student,2,3,Between 2 and 3 hours
+21,20-29,Female,University Student,3,4,More than 5 hours
+20,20-29,Male,University Student,3,3,Between 4 and 5 hours
+23,20-29,Male,University Student,4,3,Between 1 and 2 hours
+22,20-29,Female,University Student,5,5,Between 3 and 4 hours
+20,20-29,Female,University Student,3,5,More than 5 hours
+21,20-29,Male,University Student,5,4,Between 3 and 4 hours
+25,20-29,Female,University Student,5,2,Between 2 and 3 hours
+21,20-29,Female,University Student,2,2,Between 3 and 4 hours
+28,20-29,Female,University Student,5,4,Between 4 and 5 hours
+22,20-29,Female,Salaried Worker,3,3,Between 3 and 4 hours
+60,50 and above,Male,Retired,1,1,Between 2 and 3 hours
+49,40-49,Male,Salaried Worker,2,3,Less than an Hour
+34,30-39,Female,Salaried Worker,1,1,Less than an Hour
+56,50 and above,Male,Salaried Worker,2,1,Between 2 and 3 hours
+51,50 and above,Male,Salaried Worker,4,2,Between 1 and 2 hours
+23,20-29,Female,School Student,2,4,Between 2 and 3 hours
+21,20-29,Female,University Student,3,2,Between 4 and 5 hours
+50,50 and above,Male,University Student,1,1,Between 1 and 2 hours
+22,20-29,Female,University Student,2,3,Between 3 and 4 hours
+28,20-29,Female,Salaried Worker,2,5,Between 2 and 3 hours
+13,Under 20,Male,School Student,4,3,Between 4 and 5 hours
+14,Under 20,Male,School Student,1,2,Between 2 and 3 hours
+13,Under 20,Male,School Student,2,2,More than 5 hours
+23,20-29,Male,School Student,3,3,Between 4 and 5 hours
+18,Under 20,Male,University Student,4,1,Between 1 and 2 hours
+18,Under 20,Male,School Student,1,5,More than 5 hours
+15,Under 20,Male,School Student,1,1,Between 4 and 5 hours
+20,20-29,Female,University Student,5,5,Between 1 and 2 hours
+20,20-29,Female,University Student,4,4,More than 5 hours
+35,30-39,Female,Salaried Worker,4,2,Between 1 and 2 hours
+26,20-29,Female,University Student,4,4,Between 2 and 3 hours
+30,30-39,Female,Salaried Worker,1,4,Between 4 and 5 hours
+32,30-39,Female,Salaried Worker,4,5,Between 3 and 4 hours
+24,20-29,Male,Salaried Worker,4,3,Between 2 and 3 hours
+26,20-29,Female,Salaried Worker,1,4,Between 1 and 2 hours
+29,20-29,Female,Salaried Worker,2,2,Between 2 and 3 hours
+21,20-29,Male,University Student,4,4,Between 2 and 3 hours
+53,50 and above,Male,Salaried Worker,3,2,Less than an Hour
